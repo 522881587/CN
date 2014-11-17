@@ -1,0 +1,7 @@
+			Game.PrintChat("<font color=\"#00BFFF\">====== |成功载入 Primes 多英雄合集| ======</font>");
+			Game.PrintChat("<font color=\"#00BFFF\">====== 版本: v 0.15====== </font>");
+			Game.PrintChat("<font color=\"#00BFFF\">|剑魔|德莱文|伊泽瑞尔|纳尔|金克斯|卢锡安|发条魔灵|锤石|</font>");
+			Game.PrintChat("<font color=\"#00BFFF\">更多脚本资讯请访问L#中文社区 www.loll35.com</font>");
+
+			Player = ObjectManager.Player;
+			Menu = new Menu("|L#中文社区-多英雄合集|", Player.ChampionName + "UltimateCarry", true);

@@ -1,0 +1,3 @@
+			Config.AddSubMenu(new Menu("L#中文社区", "guanggao"));
+				Config.SubMenu("guanggao").AddItem(new MenuItem("wangzhan", "www.loll35.com"));
+				Config.SubMenu("guanggao").AddItem(new MenuItem("qunhao", "汉化群：397983217"));

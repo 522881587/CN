@@ -1,0 +1,1 @@
+            Config = new Menu("L#中文社区-魔蛇之拥", "DevCassio", true);

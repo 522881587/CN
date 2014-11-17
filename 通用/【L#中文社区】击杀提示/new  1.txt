@@ -1,0 +1,1 @@
+            _config = new Menu("L#中文社区-击杀提示", "Killability", true);

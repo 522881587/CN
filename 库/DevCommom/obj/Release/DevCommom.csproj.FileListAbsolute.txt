@@ -1,0 +1,10 @@
+V:\cn\AP\DevCommom\bin\Release\DevCommom.dll
+V:\cn\AP\DevCommom\bin\Release\DevCommom.pdb
+V:\cn\AP\DevCommom\bin\Release\LeagueSharp.Common.dll
+V:\cn\AP\DevCommom\bin\Release\LeagueSharp.dll
+V:\cn\AP\DevCommom\bin\Release\SharpDX.dll
+V:\cn\AP\DevCommom\bin\Release\SharpDX.Direct3D9.dll
+V:\cn\AP\DevCommom\bin\Release\LeagueSharp.xml
+V:\cn\AP\DevCommom\obj\Release\DevCommom.csprojResolveAssemblyReference.cache
+V:\cn\AP\DevCommom\obj\Release\DevCommom.dll
+V:\cn\AP\DevCommom\obj\Release\DevCommom.pdb
