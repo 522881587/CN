@@ -1,4 +1,4 @@
-﻿// Copyright 2014 - 2014 Esk0r
+// Copyright 2014 - 2014 Esk0r
 // Program.cs is part of Evade.
 // 
 // Evade is free software: you can redistribute it and/or modify
@@ -149,7 +149,8 @@ namespace Evade
             //Initialze the collision
             Collision.Init();
 
-            Game.PrintChat("<font color=\"#00BFFF\">Evade# -</font> <font color=\"#FFFFFF\">Loaded</font>");
+            Game.PrintChat("<font color=\"#00BFFF\">韬查伩鍔犺浇鎴愬姛 -</font> <font color=\"#FFFFFF\">L#涓枃绀惧尯</font>");
+			Game.PrintChat("<font color=\"#FFFFFF\"> www.loll35.com</font> <font color=\"#FFFF00\">   姹夊寲缇わ細397983217 </font> ");
 
 
             if (Config.PrintSpellData)
